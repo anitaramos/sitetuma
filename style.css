@@ -21,6 +21,25 @@
 .cabecalho-lista-item{
     display: inline-block;
     margin: 0 16px;
-    font-size: ;
+    font-size: 24px;
    
+
 }
+
+.imagen-escola{
+    width: 500px;
+}
+
+.escola-icone{
+    width: 24px;
+}
+
+.estudante-div{
+text-align: center;
+}
+
+
+
+
+
+
